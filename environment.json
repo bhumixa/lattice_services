@@ -1,0 +1,12 @@
+{
+    "development": {
+        "host": "ec2-13-233-15-186.ap-south-1.compute.amazonaws.com",
+        "user": "admin",
+        "password": "Able746##",
+        "database": "kgdev",
+        "port":4306
+    },
+    "production": {
+        "host": "localhost"
+    }
+}
